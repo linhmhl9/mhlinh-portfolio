@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mhlinh-portfolio/static/css/main.bad3cd24.chunk.css",
+    "main.js": "/mhlinh-portfolio/static/js/main.6e54720c.chunk.js",
+    "main.js.map": "/mhlinh-portfolio/static/js/main.6e54720c.chunk.js.map",
+    "runtime-main.js": "/mhlinh-portfolio/static/js/runtime-main.4a997f06.js",
+    "runtime-main.js.map": "/mhlinh-portfolio/static/js/runtime-main.4a997f06.js.map",
+    "static/css/2.dfb7c7bb.chunk.css": "/mhlinh-portfolio/static/css/2.dfb7c7bb.chunk.css",
+    "static/js/2.593ec0c7.chunk.js": "/mhlinh-portfolio/static/js/2.593ec0c7.chunk.js",
+    "static/js/2.593ec0c7.chunk.js.map": "/mhlinh-portfolio/static/js/2.593ec0c7.chunk.js.map",
+    "index.html": "/mhlinh-portfolio/index.html",
+    "precache-manifest.1bc850e158e442272c8f55c2676812a3.js": "/mhlinh-portfolio/precache-manifest.1bc850e158e442272c8f55c2676812a3.js",
+    "service-worker.js": "/mhlinh-portfolio/service-worker.js",
+    "static/css/2.dfb7c7bb.chunk.css.map": "/mhlinh-portfolio/static/css/2.dfb7c7bb.chunk.css.map",
+    "static/css/main.bad3cd24.chunk.css.map": "/mhlinh-portfolio/static/css/main.bad3cd24.chunk.css.map",
+    "static/js/2.593ec0c7.chunk.js.LICENSE.txt": "/mhlinh-portfolio/static/js/2.593ec0c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a997f06.js",
+    "static/css/2.dfb7c7bb.chunk.css",
+    "static/js/2.593ec0c7.chunk.js",
+    "static/css/main.bad3cd24.chunk.css",
+    "static/js/main.6e54720c.chunk.js"
+  ]
+}

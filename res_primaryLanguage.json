@@ -1,0 +1,237 @@
+{
+  "basic_info": {
+    "description_header": "Hi, my name is Mai Hoang Linh, a fresh graduate student with a bachelor's degree in Computer Science. I have ~5 months of Frontend - ReactJS experience and I am currently seeking a position in an environment that offers a greater challenge, can help me apply what I've learnt and gain real life experience, and the opportunity to help the company thrive and be effective.",
+    "description": "",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "LMS ECHINESE",
+      "startDate": "6/2021",
+      "description": "Learning Management System - Education and training in site administration, platform tools and resources, course development, and teaching practices lead to a truly transformative learning, manage staffs, teachers, students, ...",
+      "images": [
+        "images/portfolio/echinese/1.png",
+        "images/portfolio/echinese/2.png",
+        "images/portfolio/echinese/3.png",
+        "images/portfolio/echinese/4.png",
+        "images/portfolio/echinese/5.png",
+        "images/portfolio/echinese/6.png",
+        "images/portfolio/echinese/7.png"
+      ],
+      "url": "https://lms-base-ifx94brsn-monamedia.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-sass-original",
+          "name": "SASS/SCSS"
+        },
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "NextJS"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Typescript"
+        }
+      ]
+    },
+    {
+      "title": "MONA LMS & MANAGER WEBAPP",
+      "startDate": "4/2021",
+      "description": "Build base code, reusable UI component for LMS platform or management platform.",
+      "images": [
+        "images/portfolio/mona/1.png",
+        "images/portfolio/mona/2.png",
+        "images/portfolio/mona/3.png",
+        "images/portfolio/mona/4.png"
+      ],
+      "url": "https://lms-mona-test-gq5je8etg-annguyen97dev.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-sass-original",
+          "name": "SASS/SCSS"
+        },
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "NextJS"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Typescript"
+        }
+      ]
+    },
+    {
+      "title": "MR.APP",
+      "startDate": "6/2021",
+      "description": "Hospital Management System - Researching, learning from tech lead and build some feature,",
+      "images": [
+        "images/portfolio/mrapp/1.png",
+        "images/portfolio/mrapp/2.png",
+        "images/portfolio/mrapp/3.png",
+        "images/portfolio/mrapp/4.png"
+      ],
+      "url": "https://mr-app.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-sass-original",
+          "name": "SASS/SCSS"
+        },
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "NextJS"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Typescript"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "TailwindCSS"
+        }
+      ]
+    },
+    {
+      "title": "TechAds",
+      "startDate": "1/2021",
+      "description": "Advertisement platforms.",
+      "images": [
+        "images/portfolio/techads/1.png",
+        "images/portfolio/techads/2.png"
+      ],
+      "url": "https://github.com/linhju7y",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "ReactJS"
+        },
+        {
+          "class": "devicon-redux-original",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "Material UI"
+        }
+      ]
+    },
+    {
+      "title": "Personal Practice Projects",
+      "startDate": "2018-2021",
+      "description": "These are my personal projects. I've learned & practiced a lot!",
+      "images": [
+        "images/portfolio/some/6.png",
+        "images/portfolio/some/1.png",
+        "images/portfolio/some/2.png",
+        "images/portfolio/some/3.png",
+        "images/portfolio/some/4.png",
+        "images/portfolio/some/5.png"
+      ],
+      "url": "https://github.com/linhju7y",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "ReactJS"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Fresher ReactJS Developer",
+      "title": "MONA MEDIA",
+      "years": "04.2021 - 9.2021",
+      "mainTech": ["Axios API", "NextJS", "Antd", "Typescript"],
+      "technologies": [
+        "Redux",
+        "HTML5",
+        "SASS/SCSS",
+        "JavaScript",
+        "Bootstrap",
+        "Material UI",
+        "TailwindCSS",
+        "Prime React"
+      ]
+    },
+    {
+      "company": "Intern Frontend Developer",
+      "title": "TECHBEE SOLUTION",
+      "years": "01.2021 - 3.2021",
+      "mainTech": ["ReactJS", "Axios API"],
+      "technologies": [
+        "Redux",
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Bootstrap",
+        "Material UI"
+      ]
+    },
+    {
+      "company": "Intern DevOps",
+      "title": "PROPZY.VN",
+      "years": "09.2020 - 11.2020",
+      "mainTech": ["Linux"],
+      "technologies": [
+        "ReactJS",
+        "NextJS",
+        "Ubuntu",
+        "CentOS",
+        "GeoServer",
+        "Nginx",
+        "DigitalOcean"
+      ]
+    },
+    {
+      "company": "Part time IT Support",
+      "title": "IIG VIETNAM",
+      "years": "02/2019 - 07/2020",
+      "mainTech": ["Networking", "Windows"],
+      "technologies": ["HelpDesk", "SetupOS"]
+    }
+  ]
+}

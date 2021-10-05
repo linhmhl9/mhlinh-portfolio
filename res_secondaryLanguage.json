@@ -1,0 +1,160 @@
+{
+  "basic_info": {
+    "description_header": "You can see my CV via link: http://bit.ly/3eRv439 ----------------------------And maybe some  Ghibli music :) https://www.youtube.com/watch?v=0jZNKV5ROBM",
+    "description": "",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "TechAds",
+      "startDate": "2021",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by curator. Application handles the communication between User and Advertisement Platforms. The Users (Client, Admin, Mod) can control Advertisement with position, time, schedule, content, playlist,... ",
+      "images": [
+        "images/portfolio/techads/1.png",
+        "images/portfolio/techads/2.png"
+      ],
+      "url": "https://github.com/linhju7y",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "ReactJS"
+        },
+        {
+          "class": "devicon-redux-original",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-devicon-plain",
+          "name": "Devicon"
+        }, 
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        }
+      
+     
+      ]
+    },
+    {
+      "title": "Theater Management System",
+      "startDate": "2020",
+      "description": "This is my thesis project. Build with winform C#.",
+      "images": [
+        "images/portfolio/movie/1.png",
+        "images/portfolio/movie/2.png"
+      ],
+      "url": "https://github.com/linhju7y/QuanLyRapPhim",
+      "technologies": [
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+   
+      ]
+    },
+    {
+      "title": "Personal Practice Projects",
+      "startDate": "2018-2021",
+      "description": "These are my personal projects. I've learned & practiced a lot!",
+      "images": [
+        "images/portfolio/some/6.png",
+        "images/portfolio/some/1.png",
+        "images/portfolio/some/2.png",
+        "images/portfolio/some/3.png",
+        "images/portfolio/some/4.png",
+        "images/portfolio/some/5.png"
+      ],
+      "url": "https://github.com/linhju7y/TodoApp3",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "ReactJS"
+        },
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "TechBee Solution",
+      "title": "Intern Frontend-Developer",
+      "years": "01.2021 - 3.2021",
+      "mainTech": [
+        "ReactJS",
+        "Axios API"
+
+      ],
+      "technologies": [
+        "Redux",
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Bootstrap",
+        "Material UI"
+      ]
+    },
+    {
+      "company": "Propzy.vn",
+      "title": "Intern DevOps",
+      "years": "09.2020 - 11.2020",
+      "mainTech": [
+        "Linux"
+      ],
+      "technologies": [
+        "ReactJS",
+        "NextJS",
+        "Ubuntu",
+        "CentOS",
+        "GeoServer",
+        "Nginx",
+        "DigitalOcean"
+      ]
+    }, 
+    {
+      "company": "CrimsonWorks Company",
+      "title": "Intern Front-end Developer",
+      "years": "07/2019 - 10/2019",
+      "mainTech": [
+        "Research"
+      ],
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Bootstrap"
+      ]
+    }
+  ]
+}
