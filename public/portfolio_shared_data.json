@@ -1,0 +1,78 @@
+{
+  "basic_info": {
+    "name": "MAI HOANG LINH",
+    "titles": ["Fresher Frontend Developer (REACTJS)"],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/linhju7y",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/july____7_/",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "SASS/SCSS",
+        "class": "devicon-sass-plain",
+        "level": "95"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "95"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Typescript",
+        "class": "devicon-typescript-plain",
+        "level": "70"
+      },
+      {
+        "name": "ReactJS",
+        "class": "devicon-react-original",
+        "level": "95"
+      },
+      {
+        "name": "NextJS",
+        "class": "devicon-nextjs-original",
+        "level": "95"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-original",
+        "level": "95"
+      },
+      {
+        "name": "Material UI",
+        "class": "devicon-materialui-plain",
+        "level": "95"
+      },
+      {
+        "name": "Tailwindcss",
+        "class": "devicon-tailwindcss-plain",
+        "level": "95"
+      },
+      {
+        "name": "Github",
+        "class": "devicon-github-plain",
+        "level": "95"
+      }
+    ]
+  }
+}
